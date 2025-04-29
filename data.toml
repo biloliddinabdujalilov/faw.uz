@@ -30,25 +30,26 @@ url = "https://t.me/vum_faw_uzbekistan"
 [[sections.items]]
 
 
-[[sections]]
-title = "Links"
-description = "Социальные сети"
-direction = "row"
-item_style = "filled"
-icon_size = "30px"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/instagram/ffffff"
-title = "Instagram"
-url = "https://www.instagram.com/vum_faw_uzbekistan"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/imdb/ffffff"
-title = "YouTube"
-url = "https://www.youtube.com/@faw_uzbekistan/"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/youtube/ffffff"
-title = "Сайт"
-url = "https://faw.uz/"
-[[sections.items]]
-title = "Facebook"
-icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
-url = "https://www.facebook.com/fawuzbekistan"
+#
+#[[sections]]
+#title = "Links"
+#description = "Социальные сети"
+#direction = "row"
+#item_style = "filled"
+#icon_size = "30px"
+#[[sections.items]]
+#icon = "https://cdn.simpleicons.org/instagram/ffffff"
+#title = "Instagram"
+#url = "https://www.instagram.com/vum_faw_uzbekistan"
+#[[sections.items]]
+#icon = "https://cdn.simpleicons.org/imdb/ffffff"
+#title = "YouTube"
+#url = "https://www.youtube.com/@faw_uzbekistan/"
+##[[sections.items]]
+#icon = "https://cdn.simpleicons.org/youtube/ffffff"
+#title = "Сайт"
+#url = "https://faw.uz/"
+#[[sections.items]]
+#title = "Facebook"
+#icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
+#url = "https://www.facebook.com/fawuzbekistan"
