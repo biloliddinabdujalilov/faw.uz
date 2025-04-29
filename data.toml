@@ -42,11 +42,11 @@ icon = "https://cdn.simpleicons.org/instagram/ffffff"
 title = "Instagram"
 url = "https://www.instagram.com/vum_faw_uzbekistan"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/imdb/ffffff"
+icon = "https://cdn.simpleicons.org/youtube/ffffff"
 title = "YouTube"
 url = "https://www.youtube.com/@faw_uzbekistan/"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/youtube/ffffff"
+icon = "https://cdn.simpleicons.org/google/ffffff"
 title = "Сайт"
 url = "https://faw.uz/"
 [[sections.items]]
