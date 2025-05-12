@@ -13,6 +13,7 @@ title = "+998 90 961 50 32"
 description = "Менеджер по продажам B2B и B2G"
 direction = "column"
 item_style = "filled"
+primary_color = "#003b2c"
 [[sections.items]]
 embed_url = "https://youtu.be/tzYdqMRJntk?si=2lzv-oR0s3TSyMeS"
 [[sections.items]]
@@ -36,6 +37,7 @@ title = "Ссылки"
 description = "Социальные сети"
 direction = "row"
 item_style = "outline"
+primary_color = "#003b2c"
 icon_size = "30px"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/instagram/ffffff"
