@@ -187,15 +187,6 @@ def create_header(data: Data):
     )
 
 
-def create_footer():
-    return h("footer", klass="container")(
-        h("small")("Generated with "),
-        h("a", klass="", href="", target="_blank")(
-            "VUM"
-        ),
-    )
-
-
 def generate_html(data: Data):
     sections = frag(create_section(section) for section in data.sections)
     return html(lang="en", data_theme=data.theme)(
