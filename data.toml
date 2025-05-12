@@ -14,7 +14,7 @@ description = "Менеджер по продажам B2B и B2G"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = ""
+embed_url = "https://youtu.be/tzYdqMRJntk?si=2lzv-oR0s3TSyMeS"
 [[sections.items]]
 title = "WhatsApp"
 description = "Менеджер по продажам B2B и B2G"
@@ -32,7 +32,7 @@ url = "https://t.me/vum_faw_uzbekistan"
 
 
 [[sections]]
-title = "Links"
+title = "Ссылки"
 description = "Социальные сети"
 direction = "row"
 item_style = "filled"
