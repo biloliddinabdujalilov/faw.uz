@@ -15,8 +15,6 @@ direction = "column"
 item_style = "outline"
 primary_color = "#003b2c"
 [[sections.items]]
-embed_url = "https://youtu.be/tzYdqMRJntk?si=2lzv-oR0s3TSyMeS"
-[[sections.items]]
 title = "WhatsApp"
 description = "Менеджер по продажам B2B и B2G"
 url = "https://wa.me/998909615032"
@@ -36,24 +34,23 @@ url = "https://t.me/vum_faw_uzbekistan"
 title = "Ссылки"
 description = "Социальные сети"
 direction = "row"
-item_style = "filled"
-color = "#003b2c"
+item_style = "outline"
 primary_color = "#003b2c"
 icon_size = "30px"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/instagram/ffffff"
+icon = "https://cdn.simpleicons.org/instagram"
 title = "Instagram"
 url = "https://www.instagram.com/vum_faw_uzbekistan"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/youtube/ffffff"
+icon = "https://cdn.simpleicons.org/youtube"
 title = "YouTube"
 url = "https://www.youtube.com/@faw_uzbekistan/"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/google/ffffff"
+icon = "https://cdn.simpleicons.org/google"
 title = "Сайт"
 url = "https://faw.uz/"
 [[sections.items]]
 title = "Facebook"
-icon = "https://cdn.simpleicons.org/facebook/ffffff"
+icon = "https://cdn.simpleicons.org/facebook"
 url = "https://www.facebook.com/fawuzbekistan"
 
