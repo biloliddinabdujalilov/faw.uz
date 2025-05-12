@@ -12,7 +12,7 @@ base_url = "https://biloliddinabdujalilov.github.io/faw.uz/"
 title = "+998 90 961 50 32"
 description = "Менеджер по продажам B2B и B2G"
 direction = "column"
-item_style = "outline"
+item_style = "filled"
 [[sections.items]]
 embed_url = "https://youtu.be/tzYdqMRJntk?si=2lzv-oR0s3TSyMeS"
 [[sections.items]]
